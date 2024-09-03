@@ -1,0 +1,14 @@
+{
+  "name": "customreact",
+  "version": "1.0.0",
+  "description": "creating my own react refering youtube videos",
+  "main": "customreact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "customreact": "file:"
+  }
+}
